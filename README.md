@@ -1,3 +1,5 @@
+![alt text](./defender-for-cloud-pillars.png)
+
 
 ## Switching Defender CSPM to "On" enables features for monitoring, identifying risks, and improving cloud security posture as a whole.
 
