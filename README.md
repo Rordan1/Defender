@@ -1,9 +1,10 @@
 
-## Visual references for exploring Defender and Purview within the Microsoft cloud platforms. The Defender for Cloud dashboard available to be enabled with any Azure subscription.
+## Switching Defender CSPM to "On" enables features for monitoring, identifying risks, and improving cloud security posture as a whole.
+
 
 ![alt text](<Screenshot 2025-02-25 115637.png>)
 
-## Setting up a Microsoft 365 E5 subscription allows for advanced features.
+## Setting up a Microsoft 365 E5 subscription allows for even further advanced features such as Microsoft Defender for Endpoint, Identity, and Office 365, as well as tools for insider risk management, data governance.
 
  ![alt text](Screenshot_7-3-2025_14594_signup.microsoft.com.jpeg)
  
@@ -11,12 +12,16 @@
 
   ![alt text](Screenshot_7-3-2025_15038_signup.microsoft.com.jpeg) 
   
-   ## Access to full Defender Dashboard 
+   ## Access to full Defender Dashboard now accessable.
   ![alt text](Screenshot_10-3-2025_162141_security.microsoft.com.jpeg)
 
-  ## Can select as few or as mnay features as necessary.
+  ## Staying focused on Defender for Cloud, its possible to select as few or as mnay features as necessary.
   
    ![alt text](Screenshot_13-3-2025_14249_portal.azure.com.jpeg) 
+
+  ## The security enhancements options available to help protect workloads and improve security posture continue in this settings and monitoring page.
+   
+   ![alt text](Screenshot_13-3-2025_142431_portal.azure.com.jpeg) 
 
  ## Workload Protection Alerts are specific to threats detected in individual resources, showcasing the nature of the threat, and remediation steps.
    
@@ -30,9 +35,6 @@
    
 ![alt text](Screenshot_13-3-2025_141318_portal.azure.com.jpeg) 
    
-## Defender CSPM is capable of adding security enhancements to a variety of cloud resources, helping protect workloads and improve security posture.
-   
-   ![alt text](Screenshot_13-3-2025_142431_portal.azure.com.jpeg) 
    
    ## Microsoft Purview is a comprehensive data governance and compliance solution. 
    
