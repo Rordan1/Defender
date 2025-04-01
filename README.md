@@ -17,7 +17,7 @@
    ## Access to full Defender Dashboard now accessable.
   ![alt text](Screenshot_10-3-2025_162141_security.microsoft.com.jpeg)
 
-  ## Staying focused on Defender for Cloud, its possible to select as few or as mnay features as necessary.
+  ## Staying focused on Defender for Cloud, its possible to select as few or as many features as necessary.
   
    ![alt text](Screenshot_13-3-2025_14249_portal.azure.com.jpeg) 
 
